@@ -1,0 +1,5 @@
+The system shall keep a dababase of tasks and their valuations.
+
+The system shall provide users a login feature.
+
+The system shall allow professors to create and administer students' groups.
