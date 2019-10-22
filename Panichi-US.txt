@@ -1,0 +1,5 @@
+As a student, I want to upload the result of my task, so I can get evaluated on it.
+
+As a professor, I want to submit a task to my students, so I can verify their level of learning.
+
+As a professor, I want to manage groups of students, so I can decide their composition according to each individual skills.
