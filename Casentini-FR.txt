@@ -2,4 +2,4 @@ The system shall notify the students for the new projects available and the valu
 
 The system shall provide a list of tasks available for the projects.
 
-The system shall provide the possibility to upload photos/videos of the project
+The system shall provide the possibility to upload photos/videos of the project.
