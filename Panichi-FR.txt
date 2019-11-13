@@ -1,4 +1,4 @@
-The system shall keep a dababase of tasks and their valuations.
+The system shall keep a database of tasks and their valuations.
 
 The system shall provide users a login feature.
 
